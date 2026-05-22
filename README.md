@@ -4,7 +4,7 @@ A desktop graphical user interface (GUI) application developed to simulate and v
 
 ---
 
-## 👥 Team Members & Roles
+## Team Members & Roles
 
 | Name | ID | Core Contributions & Project Roles |
 | :--- | :---: | :--- |
